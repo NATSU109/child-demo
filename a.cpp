@@ -2,5 +2,5 @@
 
 void hello()
 {
-    std::cout << "Hello from child repository!" << std::endl;
+    std::cout << "Hello from modified child repository!" << std::endl;
 }
